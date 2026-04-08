@@ -1,6 +1,6 @@
 {
-  "lang": "typoscript",
+  "parser_version": "b5d0162b328ec52cf300054a8a23d47f84f55cb4",
   "url": "https://github.com/Teddytrombone/tree-sitter-typoscript",
-  "semver": false,
-  "parser_version": "b5d0162b328ec52cf300054a8a23d47f84f55cb4"
+  "lang": "typoscript",
+  "semver": false
 }
